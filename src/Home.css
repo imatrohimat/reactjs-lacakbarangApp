@@ -1,0 +1,61 @@
+input[type=daftar],
+select {
+    width: 100%;
+    margin: 8px 0;
+    padding: 5px 20px;
+    display: inline-block;
+    border: 3px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 20px;
+    margin: 8px 0;
+    border: 3px solid #ccc;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+div.daftar {
+    float: left;
+    background-color: transparent;
+    margin-top: -200px;
+    margin-left: 800px;
+    margin-right: 330px;
+    border-radius: 10px;
+    width: 250px;
+    height: 300px;
+}
+
+div.backhome {
+    background-image: url("bakground.jpg");
+    background-color: #cccccc;
+    width: 1420px;
+    height: 525px;
+    position: relative;
+}
+
+h2,
+p {
+    color: white;
+    text-align: justify;
+}
+
+label {
+    color: white;
+    text-align: left;
+}
+
+.daftar_label {
+    color: white;
+}
+
+.selamat_datang {
+    color: white;
+    margin-top: 50px;
+    margin-right: 350px;
+}

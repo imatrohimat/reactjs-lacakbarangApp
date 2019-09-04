@@ -1,0 +1,27 @@
+                    input[type=Login] {
+                        width: 10%;
+                        background-color: #4CAF50;
+                        color: white;
+                        padding: 2px 2px;
+                        border: 1px solid #ccc;
+                        border-radius: 10px;
+                        cursor: pointer;
+                    }
+                    
+                    input[type=text],
+                    select {
+                        width: 20%;
+                        padding: 2px 20px;
+                        display: inline-block;
+                        border: 1px solid #ccc;
+                        border-radius: 10px;
+                        box-sizing: border-box;
+                        position: relative;
+                    }
+                    
+                    div.login {
+                        border-color: #1d2a5b;
+                        margin-left: 300px;
+                        padding-bottom: 4px;
+                        align-self: center;
+                    }
